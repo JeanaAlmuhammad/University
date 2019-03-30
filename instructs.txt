@@ -1,0 +1,10 @@
+git config --global user.email jeanaalmuhammad@gmail.com
+git config --global user.name Jeana
+git clone https://github.com/JeanaAlmuhammad/University.git
+git checkout Jeana
+<edit some files>
+git init
+git add .
+git commit
+git pull https://github.com/JeanaAlmuhammad/University.git
+git push https://github.com/JeanaAlmuhammad/University.git Jeana
